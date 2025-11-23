@@ -1,0 +1,11 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.class
+
+# IDEs
+.vscode/
+.idea/
+.pycharm/
+# OS
+.DS_Store
